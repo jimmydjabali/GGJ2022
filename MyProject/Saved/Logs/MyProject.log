@@ -3756,3 +3756,202 @@ Make sure 'Collector_character_C' has been compiled for  Get CursorToWorld
 [2022.01.23-12.12.39:112][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.DefaultPawn2_Blueprint.MeshComponent0' 
 [2022.01.23-12.12.39:113][479]LogPhysics: Warning: Scale for /Engine/Transient.World_15:PersistentLevel.DefaultPawn2_Blueprint_C_0.MeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
 [2022.01.23-12.12.39:113][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_15:PersistentLevel.DefaultPawn2_Blueprint_C_0.MeshComponent0' 
+[2022.01.23-12.15.43:229][822]LogSlate: Window 'DefaultPawn2_Blueprint' being destroyed
+[2022.01.23-12.15.43:238][822]LogSlate: Window 'DefaultPawn2_Blueprint' being destroyed
+[2022.01.23-12.15.43:242][822]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.23-12.15.43:242][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.23-12.15.46:285][923]AssetReimport: New page: Outstanding source content changes 14:15:46
+[2022.01.23-12.15.46:291][923]LogStaticMesh: Building static mesh SM_Barracks...
+[2022.01.23-12.15.46:331][923]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_Barracks.SM_Barracks
+[2022.01.23-12.15.46:503][923]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Barracks.fbx]
+[2022.01.23-12.15.46:529][923]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Barracks.fbx
+[2022.01.23-12.15.46:561][923]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.46:589][923]LogStaticMesh: Building static mesh SM_Barracks...
+[2022.01.23-12.15.46:639][923]LogStaticMesh: Built static mesh [0.05s] /Engine/Transient.SM_Barracks
+[2022.01.23-12.15.46:782][923]LogStaticMesh: Building static mesh SM_Barracks...
+[2022.01.23-12.15.46:829][923]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_Barracks.SM_Barracks
+[2022.01.23-12.15.46:860][923]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.47:014][924]LogStaticMesh: Building static mesh SM_Blacksmith...
+[2022.01.23-12.15.47:031][924]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_Blacksmith.SM_Blacksmith
+[2022.01.23-12.15.47:036][924]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Blacksmith.fbx]
+[2022.01.23-12.15.47:052][924]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Blacksmith.fbx
+[2022.01.23-12.15.47:066][924]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.47:074][924]LogStaticMesh: Building static mesh SM_Blacksmith...
+[2022.01.23-12.15.47:088][924]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.SM_Blacksmith
+[2022.01.23-12.15.47:123][924]LogStaticMesh: Building static mesh SM_Blacksmith...
+[2022.01.23-12.15.47:136][924]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_Blacksmith.SM_Blacksmith
+[2022.01.23-12.15.47:150][924]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.47:255][925]LogStaticMesh: Building static mesh SM_House...
+[2022.01.23-12.15.47:271][925]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_House.SM_House
+[2022.01.23-12.15.47:278][925]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/House.fbx]
+[2022.01.23-12.15.47:301][925]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/House.fbx
+[2022.01.23-12.15.47:321][925]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.47:333][925]LogStaticMesh: Building static mesh SM_House...
+[2022.01.23-12.15.47:350][925]LogStaticMesh: Built static mesh [0.02s] /Engine/Transient.SM_House
+[2022.01.23-12.15.47:401][925]LogStaticMesh: Building static mesh SM_House...
+[2022.01.23-12.15.47:413][925]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_House.SM_House
+[2022.01.23-12.15.47:426][925]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.47:571][926]LogStaticMesh: Building static mesh SM_LumberMill...
+[2022.01.23-12.15.47:619][926]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_LumberMill.SM_LumberMill
+[2022.01.23-12.15.47:627][926]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/LumberMill.fbx]
+[2022.01.23-12.15.47:656][926]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/LumberMill.fbx
+[2022.01.23-12.15.47:675][926]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.47:689][926]LogStaticMesh: Building static mesh SM_LumberMill...
+[2022.01.23-12.15.47:738][926]LogStaticMesh: Built static mesh [0.05s] /Engine/Transient.SM_LumberMill
+[2022.01.23-12.15.47:789][926]LogStaticMesh: Building static mesh SM_LumberMill...
+[2022.01.23-12.15.47:838][926]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_LumberMill.SM_LumberMill
+[2022.01.23-12.15.47:863][926]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.48:004][927]LogStaticMesh: Building static mesh SM_TownHall...
+[2022.01.23-12.15.48:022][927]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_TownHall.SM_TownHall
+[2022.01.23-12.15.48:032][927]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/TownHall.fbx]
+[2022.01.23-12.15.48:199][927]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/TownHall.fbx
+[2022.01.23-12.15.48:244][927]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.48:257][927]LogStaticMesh: Building static mesh SM_TownHall...
+[2022.01.23-12.15.48:272][927]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.SM_TownHall
+[2022.01.23-12.15.48:583][927]LogStaticMesh: Building static mesh SM_TownHall...
+[2022.01.23-12.15.48:597][927]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_TownHall.SM_TownHall
+[2022.01.23-12.15.48:629][927]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.48:750][928]LogStaticMesh: Building static mesh SM_WaterTank...
+[2022.01.23-12.15.48:781][928]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_WaterTank.SM_WaterTank
+[2022.01.23-12.15.49:007][928]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/WaterTank.fbx]
+[2022.01.23-12.15.49:039][928]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/WaterTank.fbx
+[2022.01.23-12.15.49:056][928]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.49:067][928]LogStaticMesh: Building static mesh SM_WaterTank...
+[2022.01.23-12.15.49:086][928]LogStaticMesh: Built static mesh [0.02s] /Engine/Transient.SM_WaterTank
+[2022.01.23-12.15.49:135][928]LogStaticMesh: Building static mesh SM_WaterTank...
+[2022.01.23-12.15.49:152][928]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_WaterTank.SM_WaterTank
+[2022.01.23-12.15.49:168][928]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.49:249][929]LogStaticMesh: Building static mesh SM_Well...
+[2022.01.23-12.15.49:266][929]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_Well.SM_Well
+[2022.01.23-12.15.49:271][929]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Well.fbx]
+[2022.01.23-12.15.49:304][929]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Well.fbx
+[2022.01.23-12.15.49:329][929]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.49:339][929]LogStaticMesh: Building static mesh SM_Well...
+[2022.01.23-12.15.49:359][929]LogStaticMesh: Built static mesh [0.02s] /Engine/Transient.SM_Well
+[2022.01.23-12.15.49:419][929]LogStaticMesh: Building static mesh SM_Well...
+[2022.01.23-12.15.49:436][929]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_Well.SM_Well
+[2022.01.23-12.15.49:466][929]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.49:667][930]LogStaticMesh: Building static mesh SM_WizardTower...
+[2022.01.23-12.15.49:706][930]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_WizardTower.SM_WizardTower
+[2022.01.23-12.15.49:724][930]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/WizardTower.fbx]
+[2022.01.23-12.15.49:746][930]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/WizardTower.fbx
+[2022.01.23-12.15.49:761][930]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.49:777][930]LogStaticMesh: Building static mesh SM_WizardTower...
+[2022.01.23-12.15.49:813][930]LogStaticMesh: Built static mesh [0.04s] /Engine/Transient.SM_WizardTower
+[2022.01.23-12.15.49:956][930]LogStaticMesh: Building static mesh SM_WizardTower...
+[2022.01.23-12.15.50:023][930]LogStaticMesh: Built static mesh [0.07s] /Game/Geometry/Model/StaticMeshes/Buildings/SM_WizardTower.SM_WizardTower
+[2022.01.23-12.15.50:074][930]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.50:193][931]LogStaticMesh: Building static mesh SM_Metal...
+[2022.01.23-12.15.50:203][931]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Model/StaticMeshes/Ressources/SM_Metal.SM_Metal
+[2022.01.23-12.15.50:417][931]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/Metal.fbx]
+[2022.01.23-12.15.50:437][931]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/Metal.fbx
+[2022.01.23-12.15.50:450][931]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.50:453][931]LogStaticMesh: Building static mesh SM_Metal...
+[2022.01.23-12.15.50:464][931]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.SM_Metal
+[2022.01.23-12.15.50:489][931]LogStaticMesh: Building static mesh SM_Metal...
+[2022.01.23-12.15.50:503][931]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Model/StaticMeshes/Ressources/SM_Metal.SM_Metal
+[2022.01.23-12.15.50:526][931]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.50:832][932]LogStaticMesh: Building static mesh SM_Tree...
+[2022.01.23-12.15.50:939][932]LogStaticMesh: Built static mesh [0.11s] /Game/Geometry/Model/StaticMeshes/Ressources/SM_Tree.SM_Tree
+[2022.01.23-12.15.50:988][932]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/Tree.fbx]
+[2022.01.23-12.15.51:024][932]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/Tree.fbx
+[2022.01.23-12.15.51:042][932]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.51:055][932]LogStaticMesh: Building static mesh SM_Tree...
+[2022.01.23-12.15.51:089][932]LogStaticMesh: Built static mesh [0.03s] /Engine/Transient.SM_Tree
+[2022.01.23-12.15.51:148][932]LogStaticMesh: Building static mesh SM_Tree...
+[2022.01.23-12.15.51:269][932]LogStaticMesh: Built static mesh [0.12s] /Game/Geometry/Model/StaticMeshes/Ressources/SM_Tree.SM_Tree
+[2022.01.23-12.15.51:304][932]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.51:371][933]LogStaticMesh: Building static mesh SM_WaterSource...
+[2022.01.23-12.15.51:418][933]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Model/StaticMeshes/Ressources/SM_WaterSource.SM_WaterSource
+[2022.01.23-12.15.51:553][933]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/WaterSource.fbx]
+[2022.01.23-12.15.51:584][933]LogFbx: Loading FBX Scene from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/WaterSource.fbx
+[2022.01.23-12.15.51:609][933]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.23-12.15.51:616][933]LogStaticMesh: Building static mesh SM_WaterSource...
+[2022.01.23-12.15.51:644][933]LogStaticMesh: Built static mesh [0.03s] /Engine/Transient.SM_WaterSource
+[2022.01.23-12.15.51:677][933]LogStaticMesh: Building static mesh SM_WaterSource...
+[2022.01.23-12.15.51:702][933]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Model/StaticMeshes/Ressources/SM_WaterSource.SM_WaterSource
+[2022.01.23-12.15.51:745][933]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.51:836][934]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Book.png]
+[2022.01.23-12.15.51:837][934]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Book.png)
+[2022.01.23-12.15.51:890][934]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.51:975][935]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Boots.png]
+[2022.01.23-12.15.51:976][935]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Boots.png)
+[2022.01.23-12.15.51:992][935]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:077][936]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Bucket.png]
+[2022.01.23-12.15.52:078][936]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Bucket.png)
+[2022.01.23-12.15.52:092][936]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:138][937]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Mana.png]
+[2022.01.23-12.15.52:138][937]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Mana.png)
+[2022.01.23-12.15.52:154][937]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:207][938]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Metal.png]
+[2022.01.23-12.15.52:208][938]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Metal.png)
+[2022.01.23-12.15.52:223][938]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:268][939]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Meteor.png]
+[2022.01.23-12.15.52:268][939]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Meteor.png)
+[2022.01.23-12.15.52:284][939]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:329][940]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Pop.png]
+[2022.01.23-12.15.52:330][940]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Pop.png)
+[2022.01.23-12.15.52:346][940]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:387][941]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Web.png]
+[2022.01.23-12.15.52:388][941]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Web.png)
+[2022.01.23-12.15.52:403][941]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:448][942]LogEditorFactories: Performing atomic reimport of [C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Wood.png]
+[2022.01.23-12.15.52:448][942]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Wood.png)
+[2022.01.23-12.15.52:465][942]LogEditorFactories: -- imported successfully
+[2022.01.23-12.15.52:650][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_Barracks75FEE06A483C6BC4760CC4AA4BC29A02.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_Barracks.uasset'
+[2022.01.23-12.15.52:708][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_BlacksmithDB28DC8D4DCB139457EA2888A95DBB3B.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_Blacksmith.uasset'
+[2022.01.23-12.15.52:770][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_HouseCF6B4BAF4F9BC242D707EFA695AF862F.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_House.uasset'
+[2022.01.23-12.15.52:828][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_LumberMill9AE94B6B4D6ECA2507CEADA522B3DF47.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_LumberMill.uasset'
+[2022.01.23-12.15.52:883][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_TownHallB8E3487F453D8DFF05B1A0B11968E236.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_TownHall.uasset'
+[2022.01.23-12.15.52:941][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_WaterTankB641B7AB468696D52190A394011BFC6E.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_WaterTank.uasset'
+[2022.01.23-12.15.53:002][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_Well9AEC327346EC4850FF853C8DA7CD7CA2.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_Well.uasset'
+[2022.01.23-12.15.53:058][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_WizardTower0A446371491582B7504AD290C2E8FF26.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/SM_WizardTower.uasset'
+[2022.01.23-12.15.53:114][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_Metal2044E3F6470DF32A2BDCA6A7222917F1.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/SM_Metal.uasset'
+[2022.01.23-12.15.53:168][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_Tree185D71BC45E45A0653302A96621A5BD0.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/SM_Tree.uasset'
+[2022.01.23-12.15.53:237][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/SM_WaterSource88CF87C3477621FDB52F0A9D4F946283.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/SM_WaterSource.uasset'
+[2022.01.23-12.15.53:241][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Book" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Book.uasset" SILENT=true
+[2022.01.23-12.15.53:246][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Book26E462F749048A299CC691AF14AEFAA2.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Book.uasset'
+[2022.01.23-12.15.53:252][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Boots" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Boots.uasset" SILENT=true
+[2022.01.23-12.15.53:257][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/BootsE06176BE47B51260FF12CA9728EFC266.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Boots.uasset'
+[2022.01.23-12.15.53:261][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Bucket" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Bucket.uasset" SILENT=true
+[2022.01.23-12.15.53:265][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Bucket1CEA6B2A4E748F4613DC3384C97A5359.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Bucket.uasset'
+[2022.01.23-12.15.53:268][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Mana" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Mana.uasset" SILENT=true
+[2022.01.23-12.15.53:273][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Mana0F3CD2B04FB0FA7033C2AC8F7EC79231.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Mana.uasset'
+[2022.01.23-12.15.53:276][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Metal" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Metal.uasset" SILENT=true
+[2022.01.23-12.15.53:282][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Metal15CAB5D141968373E7C9B9A2D0689258.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Metal.uasset'
+[2022.01.23-12.15.53:284][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Meteor" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Meteor.uasset" SILENT=true
+[2022.01.23-12.15.53:289][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Meteor2CD2B2F5418A66A6A0E0BFAD92813348.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Meteor.uasset'
+[2022.01.23-12.15.53:294][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Pop" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Pop.uasset" SILENT=true
+[2022.01.23-12.15.53:313][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/PopF040EF564B4CCF5D02D3DD87FD3AD0D4.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Pop.uasset'
+[2022.01.23-12.15.53:317][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Web" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Web.uasset" SILENT=true
+[2022.01.23-12.15.53:322][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Web99F57F184CE13D88804D218B366B8ABD.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Web.uasset'
+[2022.01.23-12.15.53:325][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/Wood" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Wood.uasset" SILENT=true
+[2022.01.23-12.15.53:329][943]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/WoodAC686A534415455D5CD35395F2006034.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Wood.uasset'
+[2022.01.23-12.15.53:424][944]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.23-12.15.53:425][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Wood.Wood
+[2022.01.23-12.15.53:425][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Web.Web
+[2022.01.23-12.15.53:425][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Pop.Pop
+[2022.01.23-12.15.53:425][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Meteor.Meteor
+[2022.01.23-12.15.53:425][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Metal.Metal
+[2022.01.23-12.15.53:425][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Mana.Mana
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Bucket.Bucket
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Boots.Boots
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating Texture2D /Game/Sprite/Book.Book
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Ressources/SM_WaterSource.SM_WaterSource
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Ressources/SM_Tree.SM_Tree
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Ressources/SM_Metal.SM_Metal
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_WizardTower.SM_WizardTower
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_Well.SM_Well
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_WaterTank.SM_WaterTank
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_TownHall.SM_TownHall
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_LumberMill.SM_LumberMill
+[2022.01.23-12.15.53:426][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_House.SM_House
+[2022.01.23-12.15.53:427][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_Blacksmith.SM_Blacksmith
+[2022.01.23-12.15.53:427][944]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Model/StaticMeshes/Buildings/SM_Barracks.SM_Barracks
+[2022.01.23-12.15.54:542][968]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2022.01.23-12.15.54:542][968]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.23-12.15.54:595][968]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.23-12.15.54:595][968]LogShaderCompilers: Display: Total job queries 216, among them cache hits 0 (0.00%)
+[2022.01.23-12.15.54:595][968]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.01.23-12.15.54:596][968]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.23-12.15.54:596][968]LogShaderCompilers: Display: ================================================
