@@ -3955,3 +3955,39 @@ Make sure 'Collector_character_C' has been compiled for  Get CursorToWorld
 [2022.01.23-12.15.54:595][968]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
 [2022.01.23-12.15.54:596][968]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
 [2022.01.23-12.15.54:596][968]LogShaderCompilers: Display: ================================================
+[2022.01.23-12.15.56:068][986]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.01.23-12.15.56:069][986]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.23-12.15.56:424][988]AssetReimport: Reimported asset SM_Barracks from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Barracks.fbx.
+[2022.01.23-12.15.56:424][988]AssetReimport: Reimported asset SM_Blacksmith from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Blacksmith.fbx.
+[2022.01.23-12.15.56:424][988]AssetReimport: Reimported asset SM_House from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/House.fbx.
+[2022.01.23-12.15.56:424][988]AssetReimport: Reimported asset SM_LumberMill from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/LumberMill.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset SM_TownHall from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/TownHall.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset SM_WaterTank from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/WaterTank.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset SM_Well from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/Well.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset SM_WizardTower from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Buildings/WizardTower.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset SM_Metal from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/Metal.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset SM_Tree from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/Tree.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset SM_WaterSource from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/Model/StaticMeshes/Ressources/WaterSource.fbx.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset Book from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Book.png.
+[2022.01.23-12.15.56:425][988]AssetReimport: Reimported asset Boots from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Boots.png.
+[2022.01.23-12.15.56:426][988]AssetReimport: Reimported asset Bucket from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Bucket.png.
+[2022.01.23-12.15.56:426][988]AssetReimport: Reimported asset Mana from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Mana.png.
+[2022.01.23-12.15.56:426][988]AssetReimport: Reimported asset Metal from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Metal.png.
+[2022.01.23-12.15.56:426][988]AssetReimport: Reimported asset Meteor from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Meteor.png.
+[2022.01.23-12.15.56:426][988]AssetReimport: Reimported asset Pop from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Pop.png.
+[2022.01.23-12.15.56:427][988]AssetReimport: Reimported asset Web from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Web.png.
+[2022.01.23-12.15.56:427][988]AssetReimport: Reimported asset Wood from C:/Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Sprite/Wood.png.
+[2022.01.23-12.15.57:774][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.01.23-12.15.57:774][  9]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.23-12.15.59:214][ 44]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.01.23-12.15.59:214][ 44]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.23-12.15.59:458][ 49]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.01.23-12.15.59:459][ 49]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.23-12.16.00:622][ 71]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.01.23-12.16.00:622][ 71]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.23-12.16.01:138][ 81]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.01.23-12.16.01:138][ 81]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.23-12.16.01:195][ 82]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 175
+[2022.01.23-12.16.01:195][ 82]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.23-12.16.01:705][ 91]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 165
+[2022.01.23-12.16.01:705][ 91]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
