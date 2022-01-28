@@ -3581,3 +3581,268 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.28-21.38.58:520][901]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/MapDF20F5B044A13F481935DDB043C46D10.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap'
 [2022.01.28-21.38.58:557][901]AssetCheck: New page: Asset Save: Map
 [2022.01.28-21.38.58:557][901]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.01.28-21.39.12:861][344]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor)
+[2022.01.28-21.39.13:801][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.01.28-21.39.15:346][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.01.28-21.39.16:623][519]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.28-21.39.16:632][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.28-21.39.16:633][519]PIE: New page: PIE session: Map (28 janv. 2022 à 23:39:16)
+[2022.01.28-21.39.16:633][519]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.01.28-21.39.16:641][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007968s)
+[2022.01.28-21.39.16:642][519]LogAIModule: Creating AISystem for world Map
+[2022.01.28-21.39.16:643][519]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2022.01.28-21.39.16:643][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.010356s)
+[2022.01.28-21.39.16:678][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.01.28-21.39.16:679][519]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.01.28-21.39.16:679][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.28-21.39.16:679][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.28-21.39.16:679][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.28-21.39.16:679][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.28-21.39.16:679][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.28-21.39.16:680][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.28-21.39.16:680][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.28-21.39.16:680][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.28-21.39.16:680][519]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.28-21.39.16:680][519]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.28-21.39.16:680][519]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.28-21.39.16:680][519]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.28-21.39.16:683][519]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.28-21.39.16:683][519]LogAudioMixer: Display: 1: FrontRight
+[2022.01.28-21.39.16:695][519]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2022.01.28-21.39.16:695][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.28-21.39.16:695][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.28-21.39.16:695][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.28-21.39.16:696][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.28-21.39.16:696][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.28-21.39.16:696][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.28-21.39.16:697][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.28-21.39.16:697][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.28-21.39.16:697][519]LogInit: FAudioDevice initialized.
+[2022.01.28-21.39.16:697][519]LogAudio: Display: Audio Device (ID: 14) registered with world 'Map'.
+[2022.01.28-21.39.16:707][519]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.01.28-21.39.16:710][519]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.01.28-22.39.16
+[2022.01.28-21.39.16:710][519]LogWorld: Bringing up level for play took: 0.001707
+[2022.01.28-21.39.16:711][519]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.01.28-21.39.16:713][519]LogPhysics: Warning: Scale for /Game/UEDPIE_0_Map.Map:PersistentLevel.DefaultPawn2_Blueprint_C_0.MeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.28-21.39.16:713][519]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_Map.Map:PersistentLevel.DefaultPawn2_Blueprint_C_0.MeshComponent0' 
+[2022.01.28-21.39.16:714][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:714][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:714][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:715][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:715][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:715][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:715][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:716][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:716][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:716][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:716][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:717][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:717][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:717][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:717][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:718][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:718][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:718][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:719][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:719][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:719][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:719][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:720][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:720][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:720][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:721][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:721][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:721][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:722][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:722][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:723][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:723][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:723][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:724][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:724][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:725][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:725][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:725][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:726][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:726][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:726][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:727][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:727][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:728][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:728][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:728][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:729][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:729][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:729][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:730][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:730][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:731][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:731][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:731][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:732][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:732][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:733][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:733][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:733][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:734][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:734][519]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.39.16:736][519]PIE: Server logged in
+[2022.01.28-21.39.16:737][519]PIE: Play in editor total start time 0,106 seconds.
+[2022.01.28-21.39.17:619][566]LogCharacterMovement: Collector_character_2 is stuck and failed to move! Velocity: X=285.06 Y=-527.96 Z=0.00 Location: X=-3034.97 Y=539.96 Z=244.08 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:61.924 Actor:SM_Floor_2 Component:StaticMeshComponent0 BoneName:None (48 other events since notify)
+[2022.01.28-21.39.18:236][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-21.39.18:236][601]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.01.28-21.39.18:237][601]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-21.39.18:238][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-21.39.18:268][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.28-21.39.18:293][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-21.39.18:326][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.28-21.39.18:326][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-21.39.18:327][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-21.39.18:329][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-21.39.18:335][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.01.28-21.39.18:423][602]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.01.28-21.40.04:960][933]BlueprintLog: New page: Compile Ressource_Blueprint
+[2022.01.28-21.40.05:034][933]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.01.28-21.40.16:303][441]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(300)].
+[2022.01.28-21.40.16:353][441]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Ressource_BlueprintE53562A74F94D4834631628F9A752FC2.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/BluePrints/Ressource_Blueprint.uasset'
+[2022.01.28-21.40.16:370][441]AssetCheck: New page: Asset Save: Ressource_Blueprint
+[2022.01.28-21.40.16:370][441]LogContentValidation: Display: Validating Blueprint /Game/Geometry/BluePrints/Ressource_Blueprint.Ressource_Blueprint
+[2022.01.28-21.40.59:881][582]BlueprintLog: New page: Compile Ressource_Blueprint
+[2022.01.28-21.40.59:966][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.01.28-21.41.23:738][687]LogPropertyNode: Warning: Clamp Min (20) >= Clamp Max (20) for Ranged Numeric property /Game/Geometry/BluePrints/Ressource_Blueprint.Ressource_Blueprint_C:items_nb
+[2022.01.28-21.41.23:738][687]LogPropertyNode: Warning: UI Min (20) >= UI Max (20) for Ranged Numeric property /Game/Geometry/BluePrints/Ressource_Blueprint.Ressource_Blueprint_C:items_nb
+[2022.01.28-21.41.36:958][276]BlueprintLog: New page: Compile Ressource_Blueprint
+[2022.01.28-21.41.37:033][276]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.01.28-21.41.37:821][308]BlueprintLog: New page: Compile Map
+[2022.01.28-21.41.37:881][308]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.01.28-21.41.38:980][357]BlueprintLog: New page: Compile Ressource_Blueprint
+[2022.01.28-21.41.39:057][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.01.28-21.41.39:497][370]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Ressource_Blueprint7FBD178B4F6548C4739CF7A1DAD26686.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Geometry/BluePrints/Ressource_Blueprint.uasset'
+[2022.01.28-21.41.39:516][370]AssetCheck: New page: Asset Save: Ressource_Blueprint
+[2022.01.28-21.41.39:516][370]LogContentValidation: Display: Validating Blueprint /Game/Geometry/BluePrints/Ressource_Blueprint.Ressource_Blueprint
+[2022.01.28-21.41.41:304][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.28-21.41.41:339][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.01.28-21.41.41:355][452]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/MapC45E848F4275939EBF17BCA27DA4467E.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap'
+[2022.01.28-21.41.41:373][452]LogFileHelpers: Saving map 'Map' took 0.069
+[2022.01.28-21.41.41:386][452]AssetCheck: New page: Asset Save: Map
+[2022.01.28-21.41.41:386][452]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.01.28-21.41.41:486][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.28-21.41.41:521][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.01.28-21.41.41:538][456]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Map442728234DBCB49B6A0CBFAA8827425C.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap'
+[2022.01.28-21.41.41:572][456]AssetCheck: New page: Asset Save: Map
+[2022.01.28-21.41.41:572][456]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.01.28-21.41.42:537][498]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.28-21.41.42:545][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.28-21.41.42:545][498]PIE: New page: PIE session: Map (28 janv. 2022 à 23:41:42)
+[2022.01.28-21.41.42:545][498]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.01.28-21.41.42:554][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008821s)
+[2022.01.28-21.41.42:556][498]LogAIModule: Creating AISystem for world Map
+[2022.01.28-21.41.42:556][498]LogPlayLevel: PIE: World Init took: (0.001873s)
+[2022.01.28-21.41.42:556][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.010919s)
+[2022.01.28-21.41.42:594][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.01.28-21.41.42:595][498]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.28-21.41.42:595][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.28-21.41.42:595][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.28-21.41.42:595][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.28-21.41.42:595][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.28-21.41.42:595][498]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.28-21.41.42:598][498]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.28-21.41.42:598][498]LogAudioMixer: Display: 1: FrontRight
+[2022.01.28-21.41.42:609][498]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2022.01.28-21.41.42:609][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.28-21.41.42:611][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.28-21.41.42:611][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.28-21.41.42:611][498]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.28-21.41.42:611][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.28-21.41.42:611][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.28-21.41.42:613][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.28-21.41.42:613][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.28-21.41.42:613][498]LogInit: FAudioDevice initialized.
+[2022.01.28-21.41.42:613][498]LogAudio: Display: Audio Device (ID: 15) registered with world 'Map'.
+[2022.01.28-21.41.42:627][498]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.01.28-21.41.42:631][498]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.01.28-22.41.42
+[2022.01.28-21.41.42:631][498]LogWorld: Bringing up level for play took: 0.002893
+[2022.01.28-21.41.42:632][498]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.01.28-21.41.42:636][498]LogPhysics: Warning: Scale for /Game/UEDPIE_0_Map.Map:PersistentLevel.DefaultPawn2_Blueprint_C_0.MeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2022.01.28-21.41.42:636][498]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/UEDPIE_0_Map.Map:PersistentLevel.DefaultPawn2_Blueprint_C_0.MeshComponent0' 
+[2022.01.28-21.41.42:637][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:638][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:638][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:638][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:638][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:638][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:639][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:639][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:641][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:641][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:641][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:642][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:642][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:643][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:643][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:644][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:644][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:645][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:645][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:646][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:646][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:647][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:647][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:648][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:648][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:648][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:648][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:650][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:651][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:651][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:652][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:652][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:653][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:654][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:654][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:655][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:656][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:656][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:657][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:657][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:658][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:658][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:658][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:658][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:659][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:659][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:659][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:661][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:661][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:661][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:662][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:662][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:663][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:663][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:663][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:664][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:664][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:665][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:665][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:665][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:665][498]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2022.01.28-21.41.42:667][498]PIE: Server logged in
+[2022.01.28-21.41.42:668][498]PIE: Play in editor total start time 0,124 seconds.
+[2022.01.28-21.41.52:485][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-21.41.52:485][826]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.01.28-21.41.52:485][826]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.01.28-21.41.52:486][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-21.41.52:519][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.28-21.41.52:537][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.28-21.41.52:581][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.28-21.41.52:581][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-21.41.52:582][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.28-21.41.52:589][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.01.28-21.41.52:636][827]LogPlayLevel: Display: Destroying online subsystem :Context_32
