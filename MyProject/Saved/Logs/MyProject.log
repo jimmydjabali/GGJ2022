@@ -3568,3 +3568,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.28-21.38.29:569][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
 [2022.01.28-21.38.29:733][461]Cmd: SELECT NONE
 [2022.01.28-21.38.29:904][471]Cmd: SELECT NONE
+[2022.01.28-21.38.55:599][760]BlueprintLog: New page: Compile Map
+[2022.01.28-21.38.55:668][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.01.28-21.38.58:301][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.28-21.38.58:335][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.01.28-21.38.58:353][899]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/Map6AB03B05437952E3645A8889FE6D7E05.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap'
+[2022.01.28-21.38.58:372][899]LogFileHelpers: Saving map 'Map' took 0.072
+[2022.01.28-21.38.58:387][899]AssetCheck: New page: Asset Save: Map
+[2022.01.28-21.38.58:387][899]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.01.28-21.38.58:469][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.28-21.38.58:502][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.01.28-21.38.58:520][901]LogSavePackage: Moving '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Saved/MapDF20F5B044A13F481935DDB043C46D10.tmp' to '../../../../../../Users/jimmy/Documents/GitHub/GGJ2022/MyProject/Content/Map.umap'
+[2022.01.28-21.38.58:557][901]AssetCheck: New page: Asset Save: Map
+[2022.01.28-21.38.58:557][901]LogContentValidation: Display: Validating World /Game/Map.Map
